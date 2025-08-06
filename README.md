@@ -1,2 +1,2 @@
-# snippets_of_wisdom
-Snippets of useful insight for those who like some explicit tips while journeying through the world of programming
+### Snippets of Wisdom
+Hi and welcome to this collection of small insights and nuggets of knowledge I've gained by making coding mistakes and being corrected :)
