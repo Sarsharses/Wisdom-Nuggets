@@ -9,3 +9,7 @@
 # Routing
 
 - When creating routes, always double-check if nothing shares a name. Things tend to break if two routes are called the same.
+
+# Session/Local items
+
+- If you need to store something in the session or locally it's always good practice to add a unique identifier to the variable so nothing will magically break when the item isn't set and can't be found
