@@ -1,3 +1,7 @@
+# Database
+
+- If you need to make an export of a production database, make sure not to lock all tables on export. This is not nice for users trying to use the app.
+
 # Refactoring
 
 - Whenever refactoring a URL (or anything else for that matter) you should take careful note of where that gets used. Oftentimes it's a great investment to take a minute checking that out. If you forget this it might come back at you eventually in places you didn't think of at the time.
